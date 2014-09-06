@@ -91,7 +91,7 @@ include_once "includes/header.php";
                                                     <div class="form-group">
                                                         <div class="col-md-9">
                                                             <textarea class="form-control" rows="3" id="textareaDefault"></textarea>
-																		User will be added once they accept the request.<br />
+																		User will be added once they accept the request. this is the change<br />
                                                         </div>
                                                     </div>
 
