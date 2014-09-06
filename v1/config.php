@@ -1,7 +1,7 @@
 <?php 
 session_start();
 error_reporting(E_ALL);
-define('DB_HOST',"shorebird.info");
+define('DB_HOST',"shorebird.info123");
 define('DB_USER',"shorebir_mymet");
 define("DB_PASSWORD","XRku.et8prvH");
 define("DB_NAME","shorebir_mymetrik");
