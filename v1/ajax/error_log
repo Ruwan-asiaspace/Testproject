@@ -1,0 +1,10 @@
+[04-Sep-2014 16:04:20 Europe/Moscow] PHP Warning:  require_once(../users.class.php): failed to open stream: No such file or directory in /home/demoizone/public_html/mymetrik_dev/ajax/getUsers.php on line 2
+[04-Sep-2014 16:04:20 Europe/Moscow] PHP Fatal error:  require_once(): Failed opening required '../users.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/demoizone/public_html/mymetrik_dev/ajax/getUsers.php on line 2
+[04-Sep-2014 16:05:04 Europe/Moscow] PHP Fatal error:  Class 'MYSQL' not found in /home/demoizone/public_html/mymetrik_dev/classes/users.class.php on line 1
+[04-Sep-2014 16:05:36 Europe/Moscow] PHP Warning:  Missing argument 1 for User::get_user_by_name(), called in /home/demoizone/public_html/mymetrik_dev/ajax/getUsers.php on line 6 and defined in /home/demoizone/public_html/mymetrik_dev/classes/users.class.php on line 1
+[04-Sep-2014 16:36:39 Europe/Moscow] PHP Warning:  Missing argument 1 for User::get_user_by_name(), called in /home/demoizone/public_html/mymetrik_dev/ajax/getUsers.php on line 6 and defined in /home/demoizone/public_html/mymetrik_dev/classes/users.class.php on line 1
+[05-Sep-2014 13:32:34 UTC] PHP Notice:  Undefined variable: result in /home/shorebird/public_html/projects/mymetrik/dev_v1/classes/taketest.class.php on line 67
+[05-Sep-2014 13:32:59 UTC] PHP Notice:  Undefined variable: result in /home/shorebird/public_html/projects/mymetrik/dev_v1/classes/taketest.class.php on line 67
+[05-Sep-2014 13:33:23 UTC] PHP Notice:  Undefined variable: result in /home/shorebird/public_html/projects/mymetrik/dev_v1/classes/taketest.class.php on line 67
+[05-Sep-2014 14:07:20 UTC] PHP Notice:  Undefined variable: result in /home/shorebird/public_html/projects/mymetrik/dev_v1/classes/taketest.class.php on line 67
+[05-Sep-2014 14:07:48 UTC] PHP Notice:  Undefined variable: result in /home/shorebird/public_html/projects/mymetrik/dev_v1/classes/taketest.class.php on line 67

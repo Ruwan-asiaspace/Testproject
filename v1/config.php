@@ -1,0 +1,13 @@
+<?php 
+session_start();
+error_reporting(E_ALL);
+define('DB_HOST',"shorebird.info");
+define('DB_USER',"shorebir_mymet");
+define("DB_PASSWORD","XRku.et8prvH");
+define("DB_NAME","shorebir_mymetrik");
+define("LOGIN","signin.php");
+define("HOME","index.php");
+include("lib/Request.php");
+require("lib/Session.php");
+require("lib/MYSQL.php");
+require("lib/Auth.php");
